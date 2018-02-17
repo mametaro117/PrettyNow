@@ -1,2 +1,2 @@
 # PrettyNow
-TGS2017出展プロジェクト
+We Are Tech.c. 出展プロジェクト
