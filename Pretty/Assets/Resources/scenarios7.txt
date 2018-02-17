@@ -1,0 +1,7 @@
+﻿    ,mute,back,2,narriation,Soushi_surprise,nashi,思わぬ出来事に困惑していた聡史に、エステルがいきなり魔法をとばした。
+エステル,Ester_01,back,3,Girl,Ester_default,nashi,あなたの格好、とてもかわいいですね…それでは、<br>お姉ちゃんの為にもっとかわいくなってください。
+    ,mute,back,2,narriation,Soushi_surprise,Pyon,聡史は、いきなり飛んできた魔法をなんとか避けた。
+聡史,Soushi_21,back,2,Danshi,Soushi_surprise,Buru,うわっ!ちょっ…まっ…
+エステル,Ester_yokenaide,back,3,Girl,Ester_angry,nashi,チッ、避けないでください。
+聡史,Soushi_17,back,2,Danshi,Soushi_surprise,nashi,自分を元に戻してくれ!<br>そして、妹のいる世界に帰らせてくれー!
+/

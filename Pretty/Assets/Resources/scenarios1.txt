@@ -1,0 +1,12 @@
+﻿﻿	,mute,back_night,2,narriation,Soushi_default,nashi,聡志は沢山魔法を受けて混乱しているからか、可愛い恰好を受け入れそうになる。
+聡史,Soushi_28,back_night,2,Danshi,Soushi_angry,nashi,クソッ、なんで俺がこんな恰好を…。で、でも...これはこれでありなのか?
+	,mute,back_night,2,narriation,Soushi_default,nashi,可愛い恰好になった聡史を見て、姉のアメリアが喜んでいる。
+	,mute,back_night,2,narriation,Soushi_default,nashi,そして、エステルはうっとりしていた。
+エステル,Ester_07,back_night,3,Girl,Ester_happy,Pyon,ふふっ、お姉ちゃんが喜んでいます。やっぱり私の魔法は、アメリアお姉ちゃんのためにあるのですね。
+聡史,Soushi_27,back_night,2,Danshi,Soushi_sad,nashi,おい、俺を妹のところへ戻してくれよ!
+エステル,Ester_08,back_night,3,Girl,Ester_happy,nashi,それはできないです。これからもあなたには、私達のお人形として居てもらうんですから。
+エステル,Ester_06,back_night,3,Girl,Ester_happy,nashi,そうしたら、アメリアお姉ちゃんがもっともっと喜んでくれる。
+聡史,Soushi_4,back_night,2,Danshi,Soushi_sad,Buru,そんな...もう、妹には会えないのか…
+エステル,Ester_09,back_night,3,Girl,Ester_happy,nashi,いえ、私達が飽きたら還してあげますよ。まあ、いつ飽きるかは知りませんけど。
+聡史,Soushi_2,back_night,2,Danshi,Soushi_sad,Buru,う、嘘だー!
+/

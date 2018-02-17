@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 614bae7a9e7cbd3438fbcb141ff2368c
+timeCreated: 1510885839
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nchifont+
+  fontNames:
+  - Nchifont+
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

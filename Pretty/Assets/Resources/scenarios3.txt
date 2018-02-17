@@ -1,0 +1,17 @@
+﻿﻿ヴァン,Van_07,back_night,2,Danshi,Van_angry,nashi,き、貴様…私にこんなことをしてタダで済むと思うなよ!
+      ,mute,back_night,2,narriation,Van_angry,Buru,ヴァンは赤面しながらリーブルをにらんだ。
+リーブル,Libre_07,back_night,3,Girl,Libre_happy,nashi,やったのです!紳士さんを可愛くできたのです!
+ヴァン,Van_08,back_night,2,Danshi,Van_angry,nashi,うぅ…早く元の姿に戻してくれ…
+リーブル,Libre_09,back_night,3,Girl,Libre_happy,nashi,それもダメですー。これからは紳士さんは、私のお人形になるのですよー。
+ヴァン,Van_10,back_night,2,Danshi,Van_sad,nashi,な、なんだと…
+      ,mute,back_night,2,narriation,Van_sad,nashi,ヴァンが絶望している所にリーブル追い打ちをかける。
+リーブル,Libre_10,back_night,3,Girl,Libre_default,nashi,それに、ヴァンパイアハンターの紳士さん　なら、本当は避けれたはずのミーの魔法にあたってたのです。
+リーブル,Libre_11,back_night,3,Girl,Libre_default,nashi,実は可愛いシスターさんの恰好が、悪くないって思ったりするのです?
+ヴァン,Van_11,back_night,2,Danshi,Van_default,nashi,そ、そんなことっ…あるわけないだろ!
+リーブル,Libre_12,back_night,3,Girl,Libre_happy,nashi,無理をしなくてもいいのですよー?
+ヴァン,Van_12,back_night,2,Danshi,Van_angry,nashi,まっ、魔女だとしても、少女相手に本気を出すわけにはいかないからな。
+      ,mute,back_night,2,narriation,Van_angry,Buru,リーブルの言葉で焦りを隠せなくなるヴァン。必死に否定しつつも心は揺らいでいた。
+ヴァン,Van_13,back_night,2,Danshi,Van_default,nashi,（私が本気を出せば出られるはずだ…）
+ヴァン,Van_14,back_night,2,Danshi,Van_default,nashi,（だから、あと少し…ここにいても…）
+　　　,mute,back_night,2,narriation,Van_default,nashi,ヴァンは元の世界に戻れるのだろうか…
+/

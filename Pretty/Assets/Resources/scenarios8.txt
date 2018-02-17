@@ -1,0 +1,9 @@
+﻿織田,Nobu_kassen,back_night,2,Danshi,Nobu_happy,nashi,ハッハッハ、合戦か!<br>よきかな、よきかな!
+　　,mute,back_night,2,narriation,Nobu_happy,nashi,織田は他の男子と比べて、驚いている様子は無く、<br>むしろこの状況を楽しんでいるようにも見えた。
+アメリア,Amelia_nobu,back_night,3,Girl,Ameria_default,nashi,のぶ～。<br>今から魔法かけるから動かないでね～?
+　　,mute,back_night,3,narriation,Ameria_default,nashi,アメリアは、信長に向かって魔法を放ったが、
+　　,mute,back_night,2,narriation,Nobu_default,Pyon,織田に避けられてしまう。
+織田,Nobu_wasinoaite,back_night,2,Danshi,Nobu_angry,nashi,わしの相手はお主か、桃色の娘よ…。<br>そう簡単にわしに勝てるとおもうな!
+アメリア,Amelia_nandeyokeruno,back_night,3,Girl,Ameria_angry,nashi,何で避けるの?<br>せっかく、アメリアが可愛くしてあげるのに!<br>もういい、何が何でも魔法を当てちゃうんだから!
+織田,Nobu_yarerumononara,back_night,2,Danshi,Nobu_default,nashi,ほう、やれるものならやってみよ!
+/

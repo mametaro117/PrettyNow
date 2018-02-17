@@ -1,0 +1,8 @@
+﻿　　 ,mute,back_night,3,narriation,Libre_angry,nashi,リーブルは、ヴァンに向かって魔法を放つが、<br>さらりとかわされてしまう。
+ヴァン,Van_watashinoaiteha,back_night,2,Danshi,Van_default,nashi,私の相手は、君と言うわけか…リーブルくん
+リーブル,Libre_miigakawaiisister,back_night,3,Girl,Libre_happy,nashi,ミーが、かわいいシスターさんにしてあげるのですー
+ヴァン,Van_kawaii,back_night,2,Danshi,Van_sad,nashi,かわいい…シスター…
+ヴァン,Van_konwaku,back_night,2,Danshi,Van_sad,nashi,…
+リーブル,Libre_ikunodesuyo,back_night,3,Girl,Libre_happy,nashi,さぁー、いくのですよー?
+ヴァン,Van_kimino,back_night,2,Danshi,Van_angry,Pyon,…き、君の言う通りにはならないぞ、リーブルくん!
+/

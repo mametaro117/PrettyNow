@@ -1,0 +1,20 @@
+﻿﻿    ,mute,back_night,3,narriation,Ester_angry,Buru,エステルは魔法が当たらないことを聡史に逆ギレ<br>していた。
+エステル,Ester_02,back_night,3,Girl,Ester_angry,nashi,ちっ、なんでそんなに避けるのが上手いんですか?<br>この、ゴミ。お姉ちゃんが楽しめないじゃないです<br>か。
+聡史,Soushi_18,back_night,2,Danshi,Soushi_sad,nashi,なんで?って、言われても自分は可愛くなんてなりたくないんだよっ!
+    ,mute,back_night,2,narriation,Soushi_sad,nashi,避けて疲労感が残りながらも、なんとか返事を<br>返す聡史。
+エステル,Ester_03,back_night,3,Girl,Ester_angry,nashi,もういいです、あなたにはがっかりです。
+    ,mute,back_night,3,narriation,Ester_sad,nashi,冷めたようにエステルは吐き捨てた。
+聡史,Soushi_19,back_night,2,Danshi,Soushi_sad,nashi,は、はぁ。
+エステル,Ester_05,back_night,3,Girl,Ester_sad,nashi,こんなゴミに期待した私が悪かったのです。<br>もっと、お姉ちゃんが喜ぶようなやつを召喚しま<br>しょう。
+    ,mute,back_night,3,narriation,Ester_sad,nashi,エステルは、独り言のように呟いた。
+エステル,Ester_06,back_night,3,Girl,Ester_default,nashi,…という訳なので、とっとと帰って<br>ください。
+聡史,Soushi_22,back_night,2,Danshi,Soushi_surprise,nashi,えっ?<br>今なんて…うわあああっ!
+    ,mute,back_night,2,narriation,Soushi_surprise,nashi,上手く聞き取れず、聞き返そうとした聡史だった<br>が、いきなり足元に穴が表れて落ちていった。
+    ,mute,Kuro,3,narriation,Enashi,Pyon,いきなり穴に落とされた聡史は尻もちをついた。
+聡史,Soushi_23,Prologue,2,Danshi,Seihuku_sad,Buru,痛ってて…
+聡史,Soushi_25,Prologue,2,Danshi,Seihuku_sad,nashi,クソッ、本当になんなんだ。
+    ,mute,Prologue,2,narriation,Seihuku_surprise,nashi,周りの状況を確認し、元に戻ったと安心したが恰好の事を思い出した。
+聡史,Soushi_24,Prologue,2,Danshi,Seihuku_surprise,nashi,通…学路?<br>ハッ、そうだ、恰好は!?
+聡史,Soushi_26,Prologue,2,Danshi,Seihuku_default,nashi,よかった…元に戻ってる。
+聡史,Soushi_3,Prologue,2,Danshi,Seihuku_happy,nashi,…とりあえず学校にいくか。
+/

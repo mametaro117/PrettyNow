@@ -1,0 +1,23 @@
+﻿﻿リーブル,Libre_00,back_night,3,Girl,Libre_angry,nashi,どうしてミーの魔法に当たらないのです?<br>紳士さん!
+ヴァン,Van_00,back_night,2,Danshi,Van_default,nashi,私はヴァンパイアハンターだからな。<br>魔法を避けるのは容易い。
+      ,mute,back_night,2,narriation,Van_angry,nashi,ヴァンはこのままでは埒が明かないと思い、黒い笑みを浮かべているリーブルを説得する事にした。
+ヴァン,Van_01,back_night,2,Danshi,Van_angry,nashi,リーブルくん、いい加減に諦めるんだ!
+リーブル,Libre_01,back_night,3,Girl,Libre_angry,nashi,紳士さんこそ諦めるのです。ミーの魔法で可愛い恰好になるのですよ。
+リーブル,Libre_02,back_night,3,Girl,Libre_happy,nashi,今ならキャンディーもあげちゃうのですよ～。
+ヴァン,Van_02,back_night,2,Danshi,Van_angry,nashi,この私がアメに釣られるとでも思っているのか?
+      ,mute,back_night,2,narriation,Van_angry,nashi,これ見よがしにアメを見せるリーブルにヴァンは冷たい返答をした。
+リーブル,Libre_03,back_night,3,Girl,Libre_default,nashi,はぁ…なんだか気が削がれてきたのですよ。
+ヴァン,Van_03,back_night,2,Danshi,Van_angry,nashi,（…諦めたのか?）
+リーブル,Libre_04,back_night,3,Girl,Libre_sad,nashi,もういいのです、キャンディーもあげないのです…
+        ,mute,back_night,3,narriation,Libre_sad,nashi,しょんぼりした表情のリーブルを見てヴァンは、<br>元の世界に戻してくれと言おうとしたその時ー
+リーブル,Libre_05,back_night,3,Girl,Libre_happy,nashi,可愛くならない紳士さんに、用はないのです。
+        ,mute,back_night,3,narriation,Libre_happy,nashi,表情が一変し、再び不気味な笑みを浮かべながら<br>リーブルは魔法を唱えた。
+ヴァン,Van_04,back_night,2,Danshi,Van_surprise,Buru,何をするっ!<br>う、うわぁぁぁぁ…!
+リーブル,Libre_06,back_night,3,Girl,Libre_happy,nashi,また別の紳士さんを呼べばいいのですよ…
+        ,Van_konwaku,Kuro,3,narriation,Enashi,nashi,…。
+        ,Van_konwaku,Kuro,2,narriation,Van_surprise,nashi,…。
+ヴァン,Van_05,back02,2,Danshi,Van_sad,nashi,…ハッ。
+ヴァン,Van_06,back02,2,Danshi,Van_sad,nashi,ここは…。
+      ,mute,back02,2,narriation,Van_default,nashi,ヴァンが周りを見渡すと拠点にしていた教会があった。
+      ,mute,back02,2,narriation,Van_default,nashi,悪い夢を見ていたのだと自分に言い聞かせて、日常へ戻っていった。
+/

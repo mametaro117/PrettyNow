@@ -1,0 +1,58 @@
+﻿   ,mute,back,3,narriation,Enashi,nashi,全ては、とある世界の暇をもてあそばせていた魔法少女たちによって始まった。
+リーブル,Libre_himananodesu,back,3,Girl,Libre_default,Right,暇なのです……
+アメリア,Amelia_neester,back,2,Girl,Ameria_angry,Left,ね～エステル～<br>なにか面白いことない～?
+エステル,Ester_soudesune,back,4,Girl,Ester_sad,Right,そうですね…前の遊びには飽きてしまいました<br>し、アメリアお姉ちゃんが楽しめることですか…
+エステル,Ester_isekaino,back,4,Girl,Ester_happy,nashi,異世界の男子を連れてきて、かわいくする<br>なんて遊びはどうでしょう?
+アメリア,Amelia_iinesore,back,2,Girl,Ameria_happy,Pyon,いいね～、それ!<br>面白そ～だね、リーブル!
+リーブル,Libre_nandaka,back,3,Girl,Libre_happy,Pyon,何だか面白そうなのです～<br>ミーもやりたいのです!
+アメリア,Amelia_iiyo,back,2,Girl,Ameria_happy,nashi,いいよ～!
+エステル,Ester_oneetyanha,back,4,Girl,Ester_happy,nashi,お姉ちゃんは、どんな奴を呼びたいんですか?<br>私が呼んであげます。
+アメリア,Amelia_soudane,back,2,Girl,Ameria_default,nashi,ん～そうだね～、なんかね強くて～元気で～<br>あっそうだ!この前見た…武将?<br>みたいなやつがいいかも～!
+エステル,Ester_naruhodo,back,4,Girl,Ester_default,nashi,なるほど、強くて、元気で、武将…なら、<br>織田信長なんてどうですか?
+アメリア,Amelia_iikamo,back,2,Girl,Ameria_happy,Pyon,いいかも～!じゃ～エステルのは、私が呼ぶね～。<br>どんなのがい～い?
+エステル,Ester_watashiha,back,4,Girl,Ester_happy,nashi,私は、見た目は普通だけど、ヤバそうなヤツがいいです。
+エステル,Ester_nandesonnayatuga,back,4,Girl,Ester_happy,nashi,なんで、そんなヤツがいいのか、それはですね、<br>やっぱり見た目は普通でもないし…
+アメリア,Amelia_mudukasisou,back,2,Girl,Ameria_happy,nashi,ん～なんか難しそ～だね…<br>でも～わかった!
+エステル,Ester_libreha,back,4,Girl,Ester_default,nashi,リーブルは好きに決めてください。
+リーブル,Libre_coolnadanshigaii,back,3,Girl,Libre_happy,nashi,ミーは、クールな男子がいいのです～。<br>だから、ヴァンパイアハンターのヴァン・ヘルシングにするのです～。
+    ,mute,Fade,1,narriation,3Enashi,nashi,こうして、魔法少女達は男子を連れてくることにした。
+	,mute,Pika,1,narriation,3Enashi,nashi,…。
+　　,mute,Tozi,2,narriation,Soushi_surprise,nashi,聡史は視界が晴れると、見たことのない場所にいることに気がつく。
+聡史,Soushi_kokowa,back,2,Danshi,Soushi_angry,nashi,ここは、どこ…だ?
+    ,mute,back,2,narriation,Soushi_surprise,Pyon,しばらくして、自分が着ている服が、妹の制服に<br>なっている事に気付いた。
+聡史,Soushi_nandakore,back,2,Danshi,Soushi_surprise,nashi,な、なんだこれ…ふざけるな!<br>このプリティなピンク色の制服は妹が着るから良いのに、俺に着せてどうするんだよ～!
+    ,mute,back,2,narriation,Soushi_surprise,nashi,聡史が自らの姿に驚いていると、誰かが声をかけてきた。
+???,Nobu_sokonomo,back,3,Danshi,Nobu_default,Right,そこのもの、もしやお前もこの面妖な場へ呼び込まれたのか?
+聡史,Soushi_hai,back,2,Danshi,Soushi_sad,nashi,は、はい…もう何がなんだかって…うわっ、<br>なんだこの格好! って俺が言えたことじゃないけど!
+織田,Nobu_bureimonome,back,3,Danshi,Nobu_angry,Pyon,無礼者め! わしは第六天魔王、織田信長じゃ!<br>いかな格好でも、わしに似合わぬものなど有らぬ!
+聡史,Soushi_eoda,back,2,Danshi,Soushi_surprise,nashi,え? 織田信長ってまさか…あの、織田信長!?<br>どうして、こんなところに?
+織田,mute,back,3,Danshi,Nobu_default,nashi,何故ここにいるのか、わしにはわからぬ…<br>気がついたらここにいた。
+織田,Nobu_tokorode,back,3,Danshi,Nobu_default,nashi,ところでそこのもの、名は何と申す?
+聡史,Soushi_ettakakura,back,2,Danshi,Soushi_default,nashi,えっと、高倉聡史です。
+聡史,Soushi_tabun,back,2,Danshi,Soushi_default,nashi,多分、信じてもらえないと思うけど…自分は未来の人間です。
+織田,Nobu_miraizin,back,3,Danshi,Nobu_happy,nashi,ほう、己を未来人と申すか!<br>面白い、気に入ったぞ…!
+    ,mute,back,3,narriation,Snashi,nashi,織田が上機嫌になって、聡史の緊張が少し解けた<br>時、誰かがやってきて二人に声をかけてきた。
+???,Van_darekairunoka,back,3,Danshi,Van_default,Right,そこに誰か居るのか?
+織田,Nobu_dareja,back,1,Danshi,Nobu_default,Left,誰じゃ?
+    ,mute,back,3,narriation,Van_default,nashi,織田が問いかけると、シスターの格好をした男があらわれた。
+ヴァン,Van_watashiha,back,3,Danshi,Van_happy,nashi,私はヴァン・ヘルシング、ヴァンで構わない。
+織田,Nobu_miraizin,back,1,Danshi,Nobu_happy,Pyon,ほう、未来人の次は異国の者か!
+ヴァン,Van_miraizinn,back,3,Danshi,Van_default,nashi,未来人と異国の者…か、どうやら私たちは全員違う世界に生きていたが、何らかの原因でこの世界に呼び寄せられたようだな。
+聡史,Soushi_tashikani,back,2,Danshi,Soushi_default,nashi,確かに、そんな感じですね…
+    ,mute,back,1,narriation,Nobu_angry,nashi,聡史とヴァンが推理している間、織田はヴァンの姿を見て、考え込んでいた。
+織田,Nobu_sisuta,back,1,Danshi,Nobu_happy,nashi,その格好…そうか、お主シスターだな!<br>よく似合っておるぞ、ハッハッハ!
+ヴァン,Van_karakaunoha,back,3,Danshi,Van_sad,Pyon,かっ、からかうのはやめてくれ!
+ヴァン,Van_tonikaku,back,3,Danshi,Van_default,nashi,とにかく、何が目的でこんな格好をさせられているのか、わからないが…私と一緒にここを出る方法を探らないか?
+    ,mute,back,2,narriation,Soushi_default,nashi,すると、目の前がいきなり光始めて、3人は目を隠した。
+	,mute,Pika,1,narriation,3Enashi,nashi,…。
+ヴァン,Van_nanda,Tozi,3,Danshi,Van_angry,nashi,な、なんだ!?
+エステル,Ester_sonohituyouha,back,4,Girl,Ester_default,Right,その必要はありません、ヴァン・ヘルシング。
+聡史,Soushi_dare,back,2,Danshi,Soushi_surprise,nashi,だっ、誰!?
+アメリア,Amelia_hallo,back,3,Girl,Ameria_default,Right,ハロー!アメリアはね～<br>アメリア・スリーズって言うの～。
+エステル,Ester_imoutono,back,4,Girl,Ester_default,nashi,私は妹のエステル・スリーズ。
+リーブル,Libre_miihalibrenanodesu,back,4,Girl,Libre_happy,Right,ミーはリーブルなのです～<br>双子さんのお友達なのです～。
+アメリア,Amelia_imakara,back,3,Girl,Ameria_happy,Pyon,今から、私達の遊び相手になってもらうよ～。
+エステル,Ester_watasitatino,back,4,Girl,Ester_default,nashi,私達の魔法で可愛くなってもらいます。
+リーブル,Libre_tanosiminanodesu,back,4,Girl,Libre_happy,Pyon,楽しみなのです～。
+    ,mute,back,2,narriation,Soushi_surprise,nashi,こうして、魔法少女達による、理不尽な遊びが<br>始まったーー
+/

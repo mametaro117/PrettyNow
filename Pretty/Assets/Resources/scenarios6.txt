@@ -1,0 +1,14 @@
+﻿﻿アメリア,Amelia_1,back_night,3,Girl,Ameria_angry,nashi,も～なんで避けるの?エステルのために可愛く<br>なってよ。
+信長,Nobu_00,back_night,2,Danshi,Nobu_happy,nashi,ふん、桃色の娘、わしを好きにしたいなら、もっと<br>実力を磨くことじゃな。
+信長,Nobu_01,back_night,2,Danshi,Nobu_default,nashi,この宴も悪くなかったが、そろそろ終いでも<br>よかろう。
+アメリア,Amelia_2,back_night,3,Girl,Ameria_sad,nashi,のぶーつまんないよー。魔法かけて元の世界に飛ばしちゃうぞー。
+信長,Nobu_02,back_night,2,Danshi,Nobu_default,nashi,ならば、帰るとするかの。桃色の娘、早くその魔法<br>とやらをかけるがよい。
+    ,mute,back_night,2,narriation,Nobu_default,nashi,アメリアが駄々をこねるも、信長はさらりとその<br>言葉を流した。
+アメリア,Amelia_3,back_night,3,Girl,Ameria_angry,Buru,もういい!このバカひげ!あんたなんて、もういらないんだから!
+信長,Nobu_03,back_night,2,Danshi,Nobu_default,nashi,ふむ、それは結構。わしも日ノ本を手に入れることしか興味がないのでな!
+信長,Nobu_04,back_night,2,Danshi,Nobu_sad,nashi,しかし、こういった余興は士気が高まるかも<br>しれぬ。戦績のよい者に何か仮装でもさせるか
+アメリア,Amelia_4,back_night,3,Girl,Ameria_sad,Pyon,むかつくーかえれー
+    ,mute,back_night,3,narriation,Ameria_sad,nashi,少し涙目になりつつも、アメリアは魔法を発動させ、<br>信長を元の世界へと転送した。
+信長,Nobu_05,back_night,2,Danshi,Nobu_happy,nashi,ふむ、わしの家臣にもやらせるか。
+    ,mute,back_night,2,narriation,Snashi,nashi,少し不穏な言葉を発しながら元の世界に帰って行った。
+/

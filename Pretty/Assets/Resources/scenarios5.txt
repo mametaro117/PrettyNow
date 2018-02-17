@@ -1,0 +1,11 @@
+﻿﻿信長,Nobu_06,back_night,2,Danshi,Nobu_happy,nashi,ふん、悪くない。もっと西洋の着物はないのか?だんだんと興に乗ってきたぞ。
+アメリア,Amelia_5,back_night,3,Girl,Ameria_happy,Pyon,でしょ?でしょ?アメリアもね～そう思う!
+    ,mute,back_night,3,narriation,Ameria_lucky,nashi,信長は可愛くされていく段階で楽しくなってきてしまっていたのか、アメリアと意気投合してしまう。
+アメリア,Amelia_6,back_night,3,Girl,Ameria_happy,nashi,じゃあさ、のぶー、このフリフリのとかどう?かわいいでしょー
+信長,Nobu_07,back_night,2,Danshi,Nobu_happy,Pyon,おお、よきかな。しかし桃色の娘よ、もっと花にまみれた着物はないのか?
+アメリア,Amelia_7,back_night,3,Girl,Ameria_default,nashi,え～、お花よりもお菓子のほうが似合うよー
+信長,Nobu_08,back_night,2,Danshi,Nobu_happy,nashi,甘味か、わしにそれを見せるのじゃ。
+アメリア,Amelia_8,back_night,3,Girl,Ameria_happy,nashi,おっけー
+    ,mute,back_night,2,narriation,Nobu_happy,nashi,だんだんと話が盛り上がっていき、二人は　自分たちの世界に入っていた。
+    ,mute,back_night,2,narriation,Nobu_happy,nashi,信長は元の世界に戻るという目的をすっかりと忘れてしまっているのだ。
+/
